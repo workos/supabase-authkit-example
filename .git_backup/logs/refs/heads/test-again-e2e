@@ -1,7 +1,0 @@
-0000000000000000000000000000000000000000 e93c09549b341b594d3b25eeaebf58b5570569ea Zack Proser <zack@workos.com> 1731340946 -0500	branch: Created from HEAD
-e93c09549b341b594d3b25eeaebf58b5570569ea 9eb079d0687b1d06a7f3284e873c3021531ff0ca Zack Proser <zack@workos.com> 1731346392 -0500	commit: Implement WorkOS AuthKit
-9eb079d0687b1d06a7f3284e873c3021531ff0ca c22ad84ed8b1091b5f2bbfff9775abd84df463ea Zack Proser <zack@workos.com> 1731508807 -0500	commit: Read messages from Supabase once logged in. Harmonize buttons
-c22ad84ed8b1091b5f2bbfff9775abd84df463ea 8b7b54d436c85b13f1151867ab660b4cb16b6f4d Zack Proser <zack@workos.com> 1731508846 -0500	commit: Update README with instructions for running the example app
-8b7b54d436c85b13f1151867ab660b4cb16b6f4d 3ca5ce6fe0dd5665416d70af2d2c9cf112f9c892 Zack Proser <zack@workos.com> 1731510833 -0500	commit: Add info on Supabase setup and testing
-3ca5ce6fe0dd5665416d70af2d2c9cf112f9c892 ac224fd44822695038eb3535ddfddfafa9f54c2b Zack Proser <zack@workos.com> 1731510848 -0500	commit: Improve legibility of message text in light and dark modes
-ac224fd44822695038eb3535ddfddfafa9f54c2b 7dc9692266a9137bb9c407e8b5a50246de3819ca Zack Proser <zack@workos.com> 1731511168 -0500	commit: Update README with app screenshots
