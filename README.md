@@ -108,7 +108,7 @@ The homepage will display messages from your Supabase database
 
 ![Supabase messages](./img/logged-in.png)
 
-Visit `/protected` to view your user information. If you're not logged in, you'll be prompted to sign in
+Visit `/protected` to view your user information. If you're not logged in, you'll be prompted to sign in.
 
 If you are logged in, you'll see your WorkOS user profile details
 
